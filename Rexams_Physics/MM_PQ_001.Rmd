@@ -1,6 +1,5 @@
 Question
 ========
-[07/IJ/P1/01]
 The electrical power, _P_ dissipated in a resistor of resistance _R_ when a current _I_ passes through the resistor is given by
 
 _P_ = _I_^2^_R_
@@ -17,6 +16,6 @@ Answerlist
 
 Meta-information
 ================
-exname: Measurements
+exname: Measurements [07/IJ/P1/01]
 exsolution: 0100
 exshuffle: TRUE
