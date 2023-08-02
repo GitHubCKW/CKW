@@ -2,7 +2,9 @@ Question
 ========
 The electrical power, _P_ dissipated in a resistor of resistance _R_ when a current _I_ passes through the resistor is given by
 
+<center>
 _P_ = _I_^2^_R_
+</center>
 
 What is the unit of _R_ expressed in base units?
 
