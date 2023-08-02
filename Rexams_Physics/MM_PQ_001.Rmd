@@ -18,6 +18,7 @@ Answerlist
 
 Meta-information
 ================
-exname: Measurements [07/IJ/P1/01]
+exname: Measurements_Physical Quantities [07/IJ/P1/01]
+extype: schoice
 exsolution: 0100
 exshuffle: TRUE
